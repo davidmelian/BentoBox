@@ -1,12 +1,16 @@
-<<<<<<< HEAD
-# React + Vite
+Bento Box Grid Layout
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a frontend challenge from **Frontend Mentor** where a grid layout was implemented using **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# BentoBox
->>>>>>> c9046c444e0227a55a0da3e69db1e241198348f1
+- **Grid Layout**: Organized using CSS Grid for a clean and structured design.
+- **Modern Styling**: Styled with Tailwind CSS for fast and efficient design.
+
+ Technologies Used
+
+- **React**: For building the user interface.
+- **Tailwind CSS**: For modern and responsive styling.
+- **Vite**: For fast development and build process.
+
+
